@@ -109,6 +109,7 @@ Residual plots were analyzed to evaluate model errors.
 | **XGBoost**       | 0.841 | 0.304 | 0.463 |
 | **Random Forest** | 0.805 | 0.333 | 0.512 |
 | **Linear Regression** | 0.601 | 0.536 | 0.733 |
+
  **XGBoost** provided the highest **R²** score (0.841) and had the lowest **MAE** and **RMSE**, outperforming both **Random Forest** and **Linear Regression** models.
 
 * **Visualization** 📊: Scatter plots and bar plots were used to compare model performance.
@@ -119,24 +120,24 @@ Residual plots were analyzed to evaluate model errors.
 
 Here’s a scatter plot showing the **Actual vs Predicted Prices**:
 
-![Actual vs Predicted Prices](c:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\actual-predicted model comparison plot.png)  
+![Actual vs Predicted Prices]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\actual-predicted model comparison plot.png")  
 
 
 ### R² Comparison
 
 Bar plot comparing the **R² score** of each model:
 
-![R² Comparison](c:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\R² model comparison.png)  
+![R² Comparison]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\R² model comparison.png")  
 ### RMSEComparison
 
 Bar plot comparing the **RMSE score** of each model:
 
-![RMSE Comparison](c:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\RMSE model comparison.png)  
+![RMSE Comparison]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\RMSE model comparison.png")  
 ### MAE Comparison
 
 Bar plot comparing the **MAE score** of each model:
 
-![MAE Comparison](c:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\MAE model comparison.png)  
+![MAE Comparison]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\MAE model comparison.png")  
 
 ## Next Steps
 
