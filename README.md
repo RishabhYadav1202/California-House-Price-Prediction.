@@ -120,24 +120,24 @@ Residual plots were analyzed to evaluate model errors.
 
 Here’s a scatter plot showing the **Actual vs Predicted Prices**:
 
-![Actual vs Predicted Prices]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\actual-predicted model comparison plot.png")  
+![Actual vs Predicted Prices](actual-predicted model comparison plot.png)  
 
 
 ### R² Comparison
 
 Bar plot comparing the **R² score** of each model:
 
-![R² Comparison]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\R² model comparison.png")  
+![R² Comparison](R² model comparison.png)  
 ### RMSEComparison
 
 Bar plot comparing the **RMSE score** of each model:
 
-![RMSE Comparison]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\RMSE model comparison.png")  
+![RMSE Comparison](RMSE model comparison.png)  
 ### MAE Comparison
 
 Bar plot comparing the **MAE score** of each model:
 
-![MAE Comparison]("C:\Users\RISHABH\OneDrive\Desktop\California-House-Price-Pediction\Images\MAE model comparison.png")  
+![MAE Comparison](MAE model comparison.png)  
 
 ## Next Steps
 
